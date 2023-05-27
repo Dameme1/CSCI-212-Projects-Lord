@@ -18,4 +18,4 @@ The goal here is to showcase and overview my dive into OOP Java with various dif
 
 **Project 3** [here](https://github.com/Dameme1/CSCI-212-Projects-Lord/tree/343ec4684f98594f77d109cf4f43d714a046c510/Project3)
 
-**Project 4** *(in progress)*
+**Project 4** [here](https://github.com/Dameme1/CSCI-212-Projects-Lord/tree/01c5ef47661793e035031e0ca3773a733c08338e/Project4)
